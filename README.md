@@ -1,9 +1,9 @@
-##Prerequisites:
+## Prerequisites:
 
 - Ensure you have node & npm
 - Ensure you have a terminal you can use
 
-##Steps to run:
+## Steps to run:
 
 - npm install for Dependencies
 - npm start to run the program (uncomment lines in main function for some logs)
